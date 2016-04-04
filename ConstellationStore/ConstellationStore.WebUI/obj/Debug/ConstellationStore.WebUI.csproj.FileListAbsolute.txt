@@ -1,0 +1,609 @@
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\roslyn\csc.exe
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\roslyn\System.Collections.Immutable.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\roslyn\vbc.exe
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\roslyn\VBCSCompiler.exe
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\roslyn\VBCSCompiler.exe.config
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\SampleMVCSite.WebUI.dll.config
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\SampleMVCSite.WebUI.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\SampleMVCSite.WebUI.pdb
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Antlr3.Runtime.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\EntityFramework.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\EntityFramework.SqlServer.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Owin.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Owin.Security.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Owin.Security.Google.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Practices.Unity.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Web.Infrastructure.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Newtonsoft.Json.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Owin.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\SampleMVCSite.Contracts.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\SampleMVCSite.DAL.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\SampleMVCSite.Models.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\System.Web.Helpers.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\System.Web.Mvc.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\System.Web.Optimization.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\System.Web.Razor.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\System.Web.WebPages.Deployment.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\System.Web.WebPages.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\System.Web.WebPages.Razor.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\WebActivatorEx.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\WebGrease.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\SampleMVCSite.Contracts.pdb
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\SampleMVCSite.DAL.pdb
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\SampleMVCSite.Models.pdb
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Practices.Unity.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\System.Web.Helpers.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\System.Web.Mvc.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\System.Web.Optimization.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\System.Web.Razor.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\System.Web.WebPages.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\System.Web.WebPages.Deployment.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\System.Web.WebPages.Razor.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Antlr3.Runtime.pdb
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Newtonsoft.Json.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\EntityFramework.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\EntityFramework.SqlServer.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Owin.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Owin.Security.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Owin.Security.Google.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\obj\Debug\ConstellationStore.WebUI.csprojResolveAssemblyReference.cache
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\obj\Debug\SampleMVCSite.WebUI.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\SampleMVCSite.WebUI\obj\Debug\SampleMVCSite.WebUI.pdb
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\csc.exe
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\vbc.exe
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\VBCSCompiler.exe
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Antlr3.Runtime.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.SqlServer.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Google.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Newtonsoft.Json.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Owin.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Helpers.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Mvc.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Optimization.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Razor.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Razor.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\WebActivatorEx.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\WebGrease.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Helpers.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Mvc.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Optimization.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Razor.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Razor.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Antlr3.Runtime.pdb
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Newtonsoft.Json.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.SqlServer.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Google.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\obj\Debug\ConstellationStore.WebUI.csprojResolveAssemblyReference.cache
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.WebUI.dll.config
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.WebUI.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.WebUI.pdb
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Contracts.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.DAL.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Models.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Contracts.pdb
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.DAL.pdb
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Models.pdb
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\obj\Debug\ConstellationStore.WebUI.dll
+G:\_PROG2230 ASP NET\A1_A2\ConstellationStore\ConstellationStore.WebUI\obj\Debug\ConstellationStore.WebUI.pdb
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\csc.exe
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\vbc.exe
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\VBCSCompiler.exe
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.WebUI.dll.config
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.WebUI.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.WebUI.pdb
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Antlr3.Runtime.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Contracts.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.DAL.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Models.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.SqlServer.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Google.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Newtonsoft.Json.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Owin.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Helpers.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Mvc.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Optimization.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Razor.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Razor.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\WebActivatorEx.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\WebGrease.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Contracts.pdb
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.DAL.pdb
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Models.pdb
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Helpers.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Mvc.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Optimization.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Razor.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Razor.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Antlr3.Runtime.pdb
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Newtonsoft.Json.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.SqlServer.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Google.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\obj\Debug\ConstellationStore.WebUI.csprojResolveAssemblyReference.cache
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\obj\Debug\ConstellationStore.WebUI.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 1 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\obj\Debug\ConstellationStore.WebUI.pdb
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\csc.exe
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\vbc.exe
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\VBCSCompiler.exe
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.WebUI.dll.config
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.WebUI.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.WebUI.pdb
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Antlr3.Runtime.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Contracts.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.DAL.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Models.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.SqlServer.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Google.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Newtonsoft.Json.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Owin.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Helpers.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Mvc.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Optimization.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Razor.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Razor.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\WebActivatorEx.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\WebGrease.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Contracts.pdb
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.DAL.pdb
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Models.pdb
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Helpers.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Mvc.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Optimization.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Razor.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Razor.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Antlr3.Runtime.pdb
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Newtonsoft.Json.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.SqlServer.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Google.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\obj\Debug\ConstellationStore.WebUI.csprojResolveAssemblyReference.cache
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\obj\Debug\ConstellationStore.WebUI.dll
+G:\_PROG2230 ASP NET\PROG2230 Assignment 2 - Alfredo Morgado - ID 7381650\ConstellationStore\ConstellationStore.WebUI\obj\Debug\ConstellationStore.WebUI.pdb
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\csc.exe
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.WebUI.dll.config
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.WebUI.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.WebUI.pdb
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Contracts.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.DAL.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Models.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Services.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Owin.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\WebActivatorEx.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\WebGrease.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Contracts.pdb
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.DAL.pdb
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Models.pdb
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Services.pdb
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Optimization.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\obj\Debug\ConstellationStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\obj\Debug\ConstellationStore.WebUI.dll
+C:\Users\amorgado\Documents\GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\obj\Debug\ConstellationStore.WebUI.pdb
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\csc.exe
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\vbc.exe
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\VBCSCompiler.exe
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.WebUI.dll.config
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.WebUI.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.WebUI.pdb
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Antlr3.Runtime.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Contracts.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.DAL.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Models.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Services.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.SqlServer.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Google.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Newtonsoft.Json.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Owin.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Helpers.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Mvc.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Optimization.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Razor.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Razor.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\WebActivatorEx.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\WebGrease.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Contracts.pdb
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.DAL.pdb
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Models.pdb
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Services.pdb
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Helpers.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Mvc.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Optimization.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Razor.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Razor.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Antlr3.Runtime.pdb
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Newtonsoft.Json.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.SqlServer.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Google.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\obj\Debug\ConstellationStore.WebUI.csprojResolveAssemblyReference.cache
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\obj\Debug\ConstellationStore.WebUI.dll
+E:\85 GitHub\PROG2230_A1_A2\ConstellationStore\ConstellationStore.WebUI\obj\Debug\ConstellationStore.WebUI.pdb
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\csc.exe
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.WebUI.dll.config
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.WebUI.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.WebUI.pdb
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Contracts.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.DAL.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Models.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Services.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Owin.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\WebActivatorEx.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\WebGrease.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Contracts.pdb
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.DAL.pdb
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Models.pdb
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\ConstellationStore.Services.pdb
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Optimization.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\obj\Debug\ConstellationStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\obj\Debug\ConstellationStore.WebUI.dll
+C:\Users\amorgado1650\Desktop\PROG2230_A3-master\ConstellationStore\ConstellationStore.WebUI\obj\Debug\ConstellationStore.WebUI.pdb
