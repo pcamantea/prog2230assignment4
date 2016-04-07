@@ -1,0 +1,12 @@
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.Contracts\bin\Debug\ConstellationStore.Contracts.dll
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.Contracts\bin\Debug\ConstellationStore.Contracts.pdb
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.Contracts\obj\Debug\AdventureTravels.Contracts.csprojResolveAssemblyReference.cache
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.Contracts\obj\Debug\ConstellationStore.Contracts.dll
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.Contracts\obj\Debug\ConstellationStore.Contracts.pdb
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.Contracts\obj\Debug\AdventureTravels.Contracts.csprojResolveAssemblyReference.cache
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.Contracts\bin\Debug\AdventureTravels.Contracts.dll
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.Contracts\bin\Debug\AdventureTravels.Contracts.pdb
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.Contracts\bin\Debug\AdventureTravels.Models.dll
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.Contracts\bin\Debug\AdventureTravels.Models.pdb
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.Contracts\obj\Debug\AdventureTravels.Contracts.dll
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.Contracts\obj\Debug\AdventureTravels.Contracts.pdb

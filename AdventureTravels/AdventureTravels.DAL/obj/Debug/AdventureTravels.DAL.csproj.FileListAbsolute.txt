@@ -1,0 +1,34 @@
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.DAL\bin\Debug\ConstellationStore.DAL.dll.config
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.DAL\bin\Debug\ConstellationStore.DAL.dll
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.DAL\bin\Debug\ConstellationStore.DAL.pdb
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.DAL\bin\Debug\ConstellationStore.Contracts.dll
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.DAL\bin\Debug\ConstellationStore.Models.dll
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.DAL\bin\Debug\EntityFramework.dll
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.DAL\bin\Debug\ConstellationStore.Contracts.pdb
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.DAL\bin\Debug\ConstellationStore.Models.pdb
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.DAL\bin\Debug\EntityFramework.xml
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.DAL\obj\Debug\AdventureTravels.DAL.csprojResolveAssemblyReference.cache
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.DAL\obj\Debug\ConstellationStore.Contracts.Migrations.Initial.resources
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.DAL\obj\Debug\ConstellationStore.Contracts.Migrations.Basket.resources
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.DAL\obj\Debug\AdventureTravels.DAL.csproj.GenerateResource.Cache
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.DAL\obj\Debug\ConstellationStore.DAL.dll
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.DAL\obj\Debug\ConstellationStore.DAL.pdb
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\bin\Debug\EntityFramework.dll
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\bin\Debug\EntityFramework.xml
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.DAL.csprojResolveAssemblyReference.cache
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.Contracts.Migrations.Initial.resources
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.Contracts.Migrations.Basket.resources
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.DAL.csproj.GenerateResource.Cache
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\bin\Debug\AdventureTravels.DAL.dll.config
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\bin\Debug\AdventureTravels.DAL.dll
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\bin\Debug\AdventureTravels.DAL.pdb
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\bin\Debug\AdventureTravels.Contracts.dll
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\bin\Debug\AdventureTravels.Models.dll
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\bin\Debug\AdventureTravels.Contracts.pdb
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\bin\Debug\AdventureTravels.Models.pdb
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.DAL.dll
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.DAL.pdb

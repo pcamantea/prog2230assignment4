@@ -1,0 +1,11 @@
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.Models\bin\Debug\ConstellationStore.Models.dll.config
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.Models\bin\Debug\ConstellationStore.Models.dll
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.Models\bin\Debug\ConstellationStore.Models.pdb
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.Models\obj\Debug\AdventureTravels.Models.csprojResolveAssemblyReference.cache
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.Models\obj\Debug\ConstellationStore.Models.dll
+C:\GitHub\prog2230assignment4\AdventureTravels\ConstellationStore.Models\obj\Debug\ConstellationStore.Models.pdb
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.Models\bin\Debug\AdventureTravels.Models.dll.config
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.Models\bin\Debug\AdventureTravels.Models.dll
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.Models\bin\Debug\AdventureTravels.Models.pdb
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.Models\obj\Debug\AdventureTravels.Models.dll
+E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.Models\obj\Debug\AdventureTravels.Models.pdb
