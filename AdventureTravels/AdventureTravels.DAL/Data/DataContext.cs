@@ -15,6 +15,9 @@ namespace AdventureTravels.Contracts.Data
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Basket> Baskets { get; set; }
         public DbSet<BasketItem> BasketItems { get; set; }
+        public DbSet<Coupon> Coupons { get; set; }
+        public DbSet<BasketCoupon> BasketCoupons { get; set; }
+        public DbSet<CouponType> CouponTypes { get; set; }
 
     }
 }

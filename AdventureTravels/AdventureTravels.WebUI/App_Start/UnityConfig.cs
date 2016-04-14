@@ -44,7 +44,9 @@ namespace AdventureTravels.WebUI.App_Start
             container.RegisterType<IRepositoryBase<Order>, OrderRepository>();
             container.RegisterType<IRepositoryBase<Basket>, BasketRepository>();
             container.RegisterType<IRepositoryBase<BasketItem>, BasketItemRepository>();
-
+            container.RegisterType<IRepositoryBase<Coupon>, CouponRepository>();
+            container.RegisterType<IRepositoryBase<CouponType>, CouponTypeRepository>();
+            container.RegisterType<IRepositoryBase<BasketCoupon>, BasketCouponRepository>();
         }
     }
 }

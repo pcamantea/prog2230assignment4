@@ -40,14 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\IBasketCoupon.cs" />
+    <Compile Include="Models\ICoupon.cs" />
+    <Compile Include="Models\ICouponType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\IRepositoryBase.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\AdventureTravels.Models\AdventureTravels.Models.csproj">
-      <Project>{ce1af373-8bf8-4701-8f71-88a8f5a89cb4}</Project>
-      <Name>AdventureTravels.Models</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

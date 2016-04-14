@@ -59,10 +59,21 @@
     <Compile Include="Migrations\201603191358445_Basket.Designer.cs">
       <DependentUpon>201603191358445_Basket.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201604141500152_Coup.cs" />
+    <Compile Include="Migrations\201604141500152_Coup.Designer.cs">
+      <DependentUpon>201604141500152_Coup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201604141507578_basketitem.cs" />
+    <Compile Include="Migrations\201604141507578_basketitem.Designer.cs">
+      <DependentUpon>201604141507578_basketitem.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\BasketCouponRepository.cs" />
     <Compile Include="Repositories\BasketItemRepository.cs" />
     <Compile Include="Repositories\BasketRepository.cs" />
+    <Compile Include="Repositories\CouponRepository.cs" />
+    <Compile Include="Repositories\CouponTypeRepository.cs" />
     <Compile Include="Repositories\CustomerRepository.cs" />
     <Compile Include="Repositories\OrderRepository.cs" />
     <Compile Include="Repositories\ProductRepository.cs" />
@@ -80,6 +91,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201603191358445_Basket.resx">
       <DependentUpon>201603191358445_Basket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201604141500152_Coup.resx">
+      <DependentUpon>201604141500152_Coup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201604141507578_basketitem.resx">
+      <DependentUpon>201604141507578_basketitem.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

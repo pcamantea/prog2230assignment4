@@ -43,7 +43,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Basket.cs" />
+    <Compile Include="BasketCoupon.cs" />
     <Compile Include="BasketItem.cs" />
+    <Compile Include="Coupon.cs" />
+    <Compile Include="CouponType.cs" />
     <Compile Include="Customer.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="OrderItem.cs" />
@@ -54,6 +57,12 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AdventureTravels.Contracts\AdventureTravels.Contracts.csproj">
+      <Project>{ce8d574a-0015-4caa-8666-ff95aaec65e8}</Project>
+      <Name>AdventureTravels.Contracts</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
