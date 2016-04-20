@@ -1,0 +1,45 @@
+﻿@model IEnumerable<AdventureTravels.Models.CouponType>
+
+@{
+    ViewBag.Title = "Coupon Type List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>CouponTypeList</h2>
+
+<p>
+    @Html.ActionLink("Create New", "CreateCouponType")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CouponModule)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Type)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CouponModule)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Type)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "EditCouponType", new { id = item.CouponTypeId }) |
+            @Html.ActionLink("Delete", "DeleteCouponType", new { id = item.CouponTypeId })
+        </td>
+    </tr>
+}
+
+</table>

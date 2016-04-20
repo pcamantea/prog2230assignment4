@@ -16,11 +16,15 @@ namespace AdventureTravels.WebUI.Controllers
         IRepositoryBase<Customer> customers;
         IRepositoryBase<Product> products;
         IRepositoryBase<Order> orders;
+        IRepositoryBase<Coupon> coupons;
+        IRepositoryBase<CouponType> couponTypes;
 
-        public AdminController(IRepositoryBase<Customer> customers, IRepositoryBase<Product> products, IRepositoryBase<Order> orders)
+        public AdminController(IRepositoryBase<Customer> customers, IRepositoryBase<Product> products, IRepositoryBase<Order> orders, IRepositoryBase<Coupon> coupons, IRepositoryBase<CouponType> couponTypes)
         {
             this.customers = customers;
             this.products = products;
+            this.coupons = coupons;
+            this.couponTypes = couponTypes;
             this.orders = orders;
         }
 
@@ -345,6 +349,156 @@ namespace AdventureTravels.WebUI.Controllers
             return RedirectToAction("OrderIndex");
         }
 
+        #region Coupon CRUD
+        public ActionResult CouponList()
+        {
+            var model = coupons.GetAll();
+
+            return View(model);
+        }
+
+        public ActionResult CreateCoupon()
+        {
+            var model = new Coupon();
+            ViewBag.couponTypes = couponTypes.GetAll();
+            ViewBag.products = products.GetAll();
+
+            return View(model);
+        }
+        [HttpPost]
+        public ActionResult CreateCoupon(Coupon coupon)
+        {
+            coupons.Insert(coupon);
+            coupons.Commit();
+
+            return RedirectToAction("CouponList");
+        }
+
+        public ActionResult EditCoupon(int id)
+        {
+            Coupon coupon = coupons.GetById(id);
+            return View(coupon);
+        }
+        [HttpPost]
+        public ActionResult EditCoupon(Coupon coupon)
+        {
+            coupons.Update(coupon);
+            coupons.Commit();
+            return RedirectToAction("CouponList");
+        }
+        [HttpDelete]
+        public ActionResult DeleteCoupon(int? id, bool? saveChangesError = false)
+        {
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            if (saveChangesError.GetValueOrDefault())
+            {
+                ViewBag.ErrorMessage = "Delete failed. Try again, and if the problem persists see your system administrator.";
+            }
+            coupons.GetById(id);
+            if (coupons == null)
+            {
+                return HttpNotFound();
+            }
+            else
+            {
+                coupons.Delete(id);
+            }
+            return View(couponTypes);
+        }
+
+        public ActionResult DeleteCoupon(int id)
+        {
+            coupons.Delete(id);
+            coupons.Commit();
+
+            return RedirectToAction("CouponList");
+        }
+        #endregion
+
+        #region CouponType CRUD
+
+        public ActionResult CouponTypeList()
+        {
+            var model = couponTypes.GetAll();
+            return View(model);
+        }
+
+        public ActionResult CreateCouponType()
+        {
+            var model = new CouponType();
+            return View(model);
+        }
+
+        [HttpPost]
+        public ActionResult CreateCouponType(CouponType couponType)
+        {
+            couponTypes.Insert(couponType);
+            couponTypes.Commit();
+            return RedirectToAction("CouponTypeList");
+        }
+
+        public ActionResult EditCouponType(int id)
+        {
+            CouponType couponType = couponTypes.GetById(id);
+            return View(couponType);
+        }
+
+        [HttpPost]
+        public ActionResult EditCouponType(CouponType couponType)
+        {
+            couponTypes.Update(couponType);
+            couponTypes.Commit();
+
+            return RedirectToAction("CouponTypeList");
+        }
+        //Try 1 - No go
+        //public ActionResult DeleteCouponType(int id)
+        //{
+        //    couponTypes.GetById(id);
+        //    if (couponTypes == null)
+        //    {
+        //        return HttpNotFound();
+        //    }
+        //    return View(couponTypes);
+        //}
+
+        //Original method
+        //[HttpDelete]
+        public ActionResult DeleteCouponType(int id)
+        {
+            couponTypes.Delete(id);
+            couponTypes.Commit();
+
+            return RedirectToAction("CouponTypeList");
+        }
+        //Try 2 - No go
+        //[HttpPost, ActionName("DeleteCouponType")]
+        //[ValidateAntiForgeryToken]
+        //public ActionResult DeleteCouponType(int? id, bool? saveChangesError = false)
+        //{
+        //    if (id == null)
+        //    {
+        //        return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+        //    }
+        //    if (saveChangesError.GetValueOrDefault())
+        //    {
+        //        ViewBag.ErrorMessage = "Delete failed. Try again, and if the problem persists see your system administrator.";
+        //    }
+        //    couponTypes.GetById(id);
+        //    if (couponTypes == null)
+        //    {
+        //        return HttpNotFound();
+        //    }
+        //    else
+        //    {
+        //        couponTypes.Delete(id);
+        //    }
+        //    return View(couponTypes);
+        //}
+        #endregion
     }
 
 }

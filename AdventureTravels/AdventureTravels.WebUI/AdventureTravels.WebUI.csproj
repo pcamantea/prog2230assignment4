@@ -295,6 +295,12 @@
     <Content Include="Views\Products\BasketItemDetails.cshtml" />
     <Content Include="Views\Products\BasketItemAdd.cshtml" />
     <Content Include="Views\Admin\Index.cshtml" />
+    <Content Include="Views\Admin\CouponList.cshtml" />
+    <Content Include="Views\Admin\CouponTypeList.cshtml" />
+    <Content Include="Views\Admin\CreateCoupon.cshtml" />
+    <Content Include="Views\Admin\EditCoupon.cshtml" />
+    <Content Include="Views\Admin\CreateCouponType.cshtml" />
+    <Content Include="Views\Admin\EditCouponType.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

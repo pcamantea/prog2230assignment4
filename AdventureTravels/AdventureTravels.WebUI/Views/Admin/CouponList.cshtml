@@ -1,0 +1,75 @@
+﻿@model IEnumerable<AdventureTravels.Models.Coupon>
+
+@{
+    ViewBag.Title = "Coupon List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>CouponList</h2>
+
+<p>
+    @Html.ActionLink("Create New", "CreateCoupon")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CouponCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CouponTypeId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CouponDescription)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AppliesToProductId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Value)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MinSpend)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MultipleUse)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AssignedTo)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CouponCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CouponTypeId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CouponDescription)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AppliesToProductId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Value)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MinSpend)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MultipleUse)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AssignedTo)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "EditCoupon", new { id = item.CouponId }) |
+            @Html.ActionLink("Delete", "DeleteCoupon", new { id = item.CouponId })
+        </td>
+    </tr>
+}
+
+</table>
