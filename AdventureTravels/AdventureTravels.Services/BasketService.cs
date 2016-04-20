@@ -13,13 +13,17 @@ namespace AdventureTravels.Services
     {
         IRepositoryBase<Basket> baskets;
         IRepositoryBase<BasketItem> basketitems;
+        IRepositoryBase<Coupon> coupons;
+        IRepositoryBase<CouponType> couponTypes;
 
         public const string BasketSessionName = "eShoppingBasket";
 
-        public BasketService(IRepositoryBase<Basket> baskets, IRepositoryBase<BasketItem> basketitems)
+        public BasketService(IRepositoryBase<Basket> baskets, IRepositoryBase<BasketItem> basketitems, IRepositoryBase<Coupon> coupons, IRepositoryBase<CouponType> couponTypes)
         {
             this.baskets = baskets;
             this.basketitems = basketitems;
+            this.coupons = coupons;
+            this.couponTypes = couponTypes;
         }
 
         private Basket createNewBasket(HttpContextBase httpContext)
@@ -127,5 +131,56 @@ namespace AdventureTravels.Services
             return true;
         }
 
+        #region Coupon Methods
+
+        public void AddCoupon(string couponCode, HttpContextBase httpContext)
+        {
+            Basket basket = GetBasket(httpContext);
+            Coupon coupon = coupons.GetAll().FirstOrDefault(c => c.CouponCode == couponCode);
+            if (coupon != null)
+            {
+                CouponType couponType = couponTypes.GetById(coupon.CouponTypeId);
+                if (couponType != null)
+                {
+                    BasketCoupon basketCoupon = new BasketCoupon();
+                    if (couponType.Type == "MoneyOff")
+                    {
+                        MoneyOff(coupon, basket, basketCoupon);
+                    }
+                    if (couponType.Type == "PercentOff")
+                    {
+                        PercentOff(coupon, basket, basketCoupon);
+                    }
+                    baskets.Commit();
+                }//end couponType if
+            }//end coupon if
+        }//end addCoupon
+
+        private void MoneyOff(Coupon coupon, Basket basket, BasketCoupon basketCoupon)
+        {
+            decimal basketTotal = basket.BasketTotal();
+
+            if (coupon.MinSpend < basketTotal)
+            {
+                basketCoupon.Value = coupon.Value * -1;
+                basketCoupon.CouponCode = coupon.CouponCode;
+                basketCoupon.CouponDescription = coupon.CouponDescription;
+                basketCoupon.CouponId = coupon.CouponId;
+                //basket.AddBasketCoupon(basketCoupon);
+            }
+        }
+
+        private void PercentOff(Coupon coupon, Basket basket, BasketCoupon basketCoupon)
+        {
+            if (coupon.MinSpend > basket.BasketTotal())
+            {
+                basketCoupon.Value = (coupon.Value * (basket.BasketTotal() / 100)) * -1;
+                basketCoupon.CouponCode = coupon.CouponCode;
+                basketCoupon.CouponDescription = coupon.CouponDescription;
+                basketCoupon.CouponId = coupon.CouponId;
+                //basket.AddBasketCoupon(basketCoupon);
+            }
+        }
+        #endregion
     }
 }

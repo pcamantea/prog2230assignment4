@@ -15,6 +15,19 @@ namespace AdventureTravels.Models
         {
             this.BasketItems = new List<BasketItem>();
         }
+
+        public decimal BasketTotal()
+        {
+            decimal? total = (from item in BasketItems
+                              select (int?)item.Quantity * item.Product.Price).Sum();
+            return total ?? decimal.Zero;
+        }
+
+        public decimal BasketItemCount()
+        {
+            return BasketItems.Count();
+        }
+
         public virtual ICollection<BasketItem> BasketItems { get; set; }
     }
 }

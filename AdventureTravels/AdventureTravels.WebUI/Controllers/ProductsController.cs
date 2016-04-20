@@ -18,13 +18,13 @@ namespace AdventureTravels.WebUI.Controllers
         IRepositoryBase<BasketItem> basketitems;
         BasketService basketService;
 
-        public ProductsController(IRepositoryBase<Customer> customers, IRepositoryBase<Product> products, IRepositoryBase<Basket> baskets, IRepositoryBase<BasketItem> basketitems)
+        public ProductsController(IRepositoryBase<Customer> customers, IRepositoryBase<Product> products, IRepositoryBase<Basket> baskets, IRepositoryBase<BasketItem> basketitems, IRepositoryBase<Coupon> coupons, IRepositoryBase<CouponType> couponTypes)
         {
             this.customers = customers;
             this.products = products;
             this.baskets = baskets;
             this.basketitems = basketitems;
-            basketService = new BasketService(this.baskets, this.basketitems);
+            basketService = new BasketService(this.baskets, this.basketitems, coupons, couponTypes);
         }
 
         public ActionResult QuantityInBasket()
@@ -38,6 +38,14 @@ namespace AdventureTravels.WebUI.Controllers
             basketService.AddToBasket(this.HttpContext, id, 1);//always add one to the basket
             return RedirectToAction("BasketSummary");
         }
+
+        public ActionResult AddBasketCoupon(string couponCode)
+        {
+            basketService.AddCoupon(couponCode, this.HttpContext);
+
+            return RedirectToAction("BasketSummary");
+        }
+
         public ActionResult BasketSummary()
         {
             ViewBag.QuantityInBasket = basketService.QuantityInBasket(this.HttpContext);
