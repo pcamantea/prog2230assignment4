@@ -1,0 +1,7 @@
+C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.Modules.Coupons.MoneyOff\bin\Debug\AdventureTravels.Modules.Coupons.MoneyOff.dll
+C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.Modules.Coupons.MoneyOff\bin\Debug\AdventureTravels.Modules.Coupons.MoneyOff.pdb
+C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.Modules.Coupons.MoneyOff\obj\Debug\AdventureTravels.Modules.Coupons.MoneyOff.dll
+C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.Modules.Coupons.MoneyOff\obj\Debug\AdventureTravels.Modules.Coupons.MoneyOff.pdb
+C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.Modules.Coupons.MoneyOff\obj\Debug\AdventureTravels.Modules.Coupons.MoneyOff.csprojResolveAssemblyReference.cache
+C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.Modules.Coupons.MoneyOff\bin\Debug\AdventureTravels.Contracts.dll
+C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.Modules.Coupons.MoneyOff\bin\Debug\AdventureTravels.Contracts.pdb

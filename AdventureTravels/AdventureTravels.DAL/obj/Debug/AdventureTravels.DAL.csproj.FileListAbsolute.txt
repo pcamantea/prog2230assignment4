@@ -45,10 +45,10 @@ C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.
 C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.DAL.csprojResolveAssemblyReference.cache
 C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.Contracts.Migrations.Initial.resources
-C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.DAL.csproj.GenerateResource.Cache
-C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.DAL.dll
-C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.DAL.pdb
 C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.Contracts.Migrations.201603191358445_Basket.resources
 C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.Contracts.Migrations.Coup.resources
 C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.Contracts.Migrations.basketitem.resources
 C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.Contracts.Migrations.Coupons2.resources
+C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.DAL.csproj.GenerateResource.Cache
+C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.DAL.dll
+C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.DAL.pdb

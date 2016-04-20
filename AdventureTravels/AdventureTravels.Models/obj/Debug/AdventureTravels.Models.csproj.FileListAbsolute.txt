@@ -12,8 +12,8 @@ E:\85 GitHub\prog2230assignment4\AdventureTravels\AdventureTravels.Models\obj\De
 C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.Models\bin\Debug\AdventureTravels.Models.dll.config
 C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.Models\bin\Debug\AdventureTravels.Models.dll
 C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.Models\bin\Debug\AdventureTravels.Models.pdb
+C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.Models\bin\Debug\AdventureTravels.Contracts.dll
+C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.Models\bin\Debug\AdventureTravels.Contracts.pdb
 C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.Models\obj\Debug\AdventureTravels.Models.csprojResolveAssemblyReference.cache
 C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.Models\obj\Debug\AdventureTravels.Models.dll
 C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.Models\obj\Debug\AdventureTravels.Models.pdb
-C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.Models\bin\Debug\AdventureTravels.Contracts.dll
-C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.Models\bin\Debug\AdventureTravels.Contracts.pdb

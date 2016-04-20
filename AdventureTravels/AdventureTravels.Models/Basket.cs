@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AdventureTravels.Contracts.Models;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -7,13 +8,16 @@ using System.Threading.Tasks;
 
 namespace AdventureTravels.Models
 {
-    public class Basket
+    public class Basket : IBasket
     {
         public Guid BasketID { get; set; }
         public DateTime OrderDate { get; set; }
         private List<BasketCoupon> _basketCoupons;
+        private List<BasketItem> _basketItems;
 
         public virtual ICollection<BasketCoupon> BasketCoupons { get { return _basketCoupons; } set { _basketCoupons = value.ToList(); } }
+        public virtual ICollection<IBasketCoupon> IBasketCoupons { get { return _basketCoupons.ConvertAll(i => (IBasketCoupon)i); } }
+        public virtual ICollection<IBasketItem> IBasketItems { get { return _basketItems.ConvertAll(i => (IBasketItem)i); } }
 
         public Basket()
         {
@@ -33,7 +37,7 @@ namespace AdventureTravels.Models
             return BasketItems.Count();
         }
 
-        public void AddBasketCoupon(BasketCoupon coupon)
+        public void AddBasketCoupon(IBasketCoupon coupon)
         {
             _basketCoupons.Add((BasketCoupon)coupon);
         }    
