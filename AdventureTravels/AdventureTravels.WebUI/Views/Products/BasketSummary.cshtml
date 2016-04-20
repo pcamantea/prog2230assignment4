@@ -1,4 +1,4 @@
-﻿@model IEnumerable<AdventureTravels.Models.BasketItem>
+﻿@model AdventureTravels.Models.Basket
 
 @{
     ViewBag.Title = "Basket Summary";
@@ -20,24 +20,24 @@
 <table class="table">
     <tr>
         <th>
-            @Html.DisplayNameFor(model => model.Product.ImageUrl)
+            URL
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.BasketID)
+           ID
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Product.Description)
+           Description
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Product.Price)
+            Price
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Quantity)
+            Quantity
         </th>
         <th></th>
     </tr>
 
-    @foreach (var item in Model)
+    @foreach (var item in Model.BasketItems)
     {
         <tr>
             <td class="col-xs-2">
@@ -89,6 +89,35 @@
     </tr>
 </table>
 
+
+<table class="table">
+    <tr>
+        <th>
+            Code
+        </th>
+        <th>
+            Description
+        </th>
+        <th>
+            Value
+        </th>
+    </tr>
+
+    @foreach (var item in Model.BasketCoupons)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CouponCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CouponDescription)
+            </td>
+            <td>
+                @String.Format("{0:c}", item.Value)
+            </td>
+        </tr>
+    }
+</table>
 
 @using (Html.BeginForm("AddBasketCoupon", "Products"))
 {

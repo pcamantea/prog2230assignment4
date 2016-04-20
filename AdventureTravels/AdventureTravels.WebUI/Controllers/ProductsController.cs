@@ -51,7 +51,7 @@ namespace AdventureTravels.WebUI.Controllers
             ViewBag.QuantityInBasket = basketService.QuantityInBasket(this.HttpContext);
             ViewBag.AmountInBasket = basketService.AmountInBasket(this.HttpContext);
             var model = basketService.GetBasket(this.HttpContext);
-            return View(model.BasketItems);
+            return View(model);
         }
 
         public ActionResult BasketItemDetails(int? id)
