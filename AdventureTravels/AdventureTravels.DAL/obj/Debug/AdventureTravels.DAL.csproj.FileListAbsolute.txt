@@ -51,3 +51,4 @@ C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.
 C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.Contracts.Migrations.201603191358445_Basket.resources
 C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.Contracts.Migrations.Coup.resources
 C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.Contracts.Migrations.basketitem.resources
+C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.DAL\obj\Debug\AdventureTravels.Contracts.Migrations.Coupons2.resources

@@ -166,7 +166,7 @@ namespace AdventureTravels.Services
                 basketCoupon.CouponCode = coupon.CouponCode;
                 basketCoupon.CouponDescription = coupon.CouponDescription;
                 basketCoupon.CouponId = coupon.CouponId;
-                //basket.AddBasketCoupon(basketCoupon);
+                basket.AddBasketCoupon(basketCoupon);
             }
         }
 
