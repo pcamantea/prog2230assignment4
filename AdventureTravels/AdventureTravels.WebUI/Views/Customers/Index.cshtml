@@ -1,11 +1,11 @@
 @model IEnumerable<AdventureTravels.Models.Customer>
 
 @{
-    ViewBag.Title = "Our Customers";
+    ViewBag.Title = "Specific Destinations";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>Our Customers</h2>
+<h2>Specific Destinations</h2>
 
 <div class="container">
     <div class="row margin-top-10">
@@ -14,7 +14,7 @@
             {
                 @Html.AntiForgeryToken()
                 <div class="col-md-9 col-xs-8 margin-top-10">
-                    @Html.TextBox("SearchString", null, new { id = "SearchString", @class = "form-control", placeholder = "Search by customer name" })
+                    @Html.TextBox("SearchString", null, new { id = "SearchString", @class = "form-control", placeholder = "Search by country name" })
                 </div>
                 <div class="col-md-1 col-xs-2 margin-top-10">
                     <button type="submit" class="btn btn-primary glyphicon glyphicon-search" />

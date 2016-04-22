@@ -5,3 +5,10 @@ C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.
 C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.Modules.Coupons.MoneyOff\obj\Debug\AdventureTravels.Modules.Coupons.MoneyOff.csprojResolveAssemblyReference.cache
 C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.Modules.Coupons.MoneyOff\bin\Debug\AdventureTravels.Contracts.dll
 C:\Users\pca\Documents\A4\prog2230assignment4\AdventureTravels\AdventureTravels.Modules.Coupons.MoneyOff\bin\Debug\AdventureTravels.Contracts.pdb
+C:\Users\susan\Desktop\prog2230assignment4\AdventureTravels\AdventureTravels.Modules.Coupons.MoneyOff\bin\Debug\AdventureTravels.Modules.Coupons.MoneyOff.dll
+C:\Users\susan\Desktop\prog2230assignment4\AdventureTravels\AdventureTravels.Modules.Coupons.MoneyOff\bin\Debug\AdventureTravels.Modules.Coupons.MoneyOff.pdb
+C:\Users\susan\Desktop\prog2230assignment4\AdventureTravels\AdventureTravels.Modules.Coupons.MoneyOff\bin\Debug\AdventureTravels.Contracts.dll
+C:\Users\susan\Desktop\prog2230assignment4\AdventureTravels\AdventureTravels.Modules.Coupons.MoneyOff\bin\Debug\AdventureTravels.Contracts.pdb
+C:\Users\susan\Desktop\prog2230assignment4\AdventureTravels\AdventureTravels.Modules.Coupons.MoneyOff\obj\Debug\AdventureTravels.Modules.Coupons.MoneyOff.csprojResolveAssemblyReference.cache
+C:\Users\susan\Desktop\prog2230assignment4\AdventureTravels\AdventureTravels.Modules.Coupons.MoneyOff\obj\Debug\AdventureTravels.Modules.Coupons.MoneyOff.dll
+C:\Users\susan\Desktop\prog2230assignment4\AdventureTravels\AdventureTravels.Modules.Coupons.MoneyOff\obj\Debug\AdventureTravels.Modules.Coupons.MoneyOff.pdb
