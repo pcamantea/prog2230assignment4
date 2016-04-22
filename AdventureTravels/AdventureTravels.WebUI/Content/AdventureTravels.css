@@ -13,6 +13,7 @@ a, a:hover{
 .navbar-inverse {
     background-color: #96D38D;
     border-color: #64B058;
+    font-weight:900;
 }
 .navbar-inverse .navbar-nav > li > a {
     color: #0A4600;

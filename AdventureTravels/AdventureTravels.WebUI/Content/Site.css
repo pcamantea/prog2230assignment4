@@ -57,11 +57,11 @@ textarea {
     -o-transform-origin: 50% 100%;
     -webkit-transform-origin: 50% 100%;
     transform-origin: 50% 100%;
-    -moz-transform: perspective(300px) rotateX(25deg);
-    -ms-transform: perspective(300px) rotateX(25deg);
-    -o-transform: perspective(300px) rotateX(25deg);
-    -webkit-transform: perspective(300px) rotateX(25deg);
-    transform: perspective(300px) rotateX(25deg);
+    -moz-transform: perspective(600px) rotateX(20deg);
+    -ms-transform: perspective(600px) rotateX(20deg);
+    -o-transform: perspective(600px) rotateX(20deg);
+    -webkit-transform: perspective(600px) rotateX(20deg);
+    transform: perspective(600px) rotateX(20deg);
 }
 
 #titles:after {
